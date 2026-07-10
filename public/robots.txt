@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://knowledgepedia-2026.vercel.app/sitemap.xml
